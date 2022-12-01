@@ -18,3 +18,16 @@ The Nano and breadboard should be hidden or tucked under cover so that interacti
 -	code or link to code
 -	circuit diagram/schematic
 -	citation/s of any inspired-by work and clutch technical references
+
+## Our Project
+### Materials:
+- cardboard
+- felt
+- stuffing
+- speaker
+- keyboard
+
+### The Plan:
+- Keyboard creates unique sound for each of 8 keys hit, pitching up or down with the arrow keys
+- Transmits to a speaker contained in an object that looks like a little creature
+- Use two motors to wiggle the arms of the creature as it sings
